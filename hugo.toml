@@ -1,0 +1,13 @@
+baseURL = "https://gonzaloamhe.github.io/mysite/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "yassi"
+
+[params]
+  accentColor = "#47b1db"
+  accentColorDark = "#5fc9f0"
+  useProjectCarousel = true
+  enableSearch = true
+
+  [params.social]
+    github = "https://github.com/gonzaloamhe"
